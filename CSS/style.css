@@ -209,7 +209,7 @@ header nav .form i:hover {
 .landing {
   min-height: 100vh;
   background-color: #19c8fa;
-  background-image: url(/img/landing.jpg);
+  background-image: url('../img/landing.jpg');
   background-size: cover;
   position: relative;
   background-attachment: fixed;
@@ -349,7 +349,7 @@ header nav .form i:hover {
   padding-bottom: var(--section-padding);
   height: 600px;
   position: relative;
-  background-image: url(/img/design-features.jpg);
+  background-image: url('../img/design-features.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -558,7 +558,7 @@ header nav .form i:hover {
   padding-bottom: var(--section-padding);
   text-align: center;
   background-color: aqua;
-  background-image: url(/img/stats.png);
+  background-image: url('../img/stats.png');
   background-size: cover;
   position: relative;
 }
@@ -737,7 +737,7 @@ header nav .form i:hover {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   background-color: #19c8fa;
-  background-image: url(/img/quote.jpg);
+  background-image: url('../img/quote.jpg');
   background-size: cover;
   position: relative;
   text-align: center;
@@ -865,7 +865,7 @@ header nav .form i:hover {
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("/img/subscribe.jpg");
+  background-image: url("../img/subscribe.jpg");
   background-size: cover;
   position: relative;
   color: white;
